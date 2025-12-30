@@ -1,2 +1,2 @@
 # My Projects
-All of my project (first repo testing)
+All of my projects repo
