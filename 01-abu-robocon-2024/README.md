@@ -1,5 +1,4 @@
 # ABU Robocon 2024
-
 ## 🚧 Documentation In Progress
 
 Detailed technical documentation for this project is currently being prepared for GitHub.
