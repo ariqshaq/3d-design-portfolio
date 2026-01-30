@@ -8,7 +8,12 @@
 This repository contains my mechatronics and 3D printing projects portfolio. The portfolio is currently only available in [Mechatronics & 3D Printing Portfolio.pdf](https://github.com/ariqshaq/3d-design-portfolio/blob/main/Mechatronics%20%26%203D%20Printing%20Portfolio.pdf). Detailed documentation is being prepared and will be available soon on this GitHub.
 
 ---
-### ⚙️ Featured Projects (Documentation Coming Soon):
+## 📊 Track Record:
+- **4+ Years Experience**
+- **20+ Clients**
+- **Multiple National Recognitions**
+
+## ⚙️ Featured Projects (Documentation Coming Soon):
 1. ABU Robocon 2024 Robot
 2. ABU Robocon 2023 Robot
 3. Skyward Project (Multiple Installations)
@@ -18,12 +23,12 @@ This repository contains my mechatronics and 3D printing projects portfolio. The
 7. Radar Slider Mechanism
 8. Other 3D Design & 3D Printing Projects
 
-### 📝 Services Offered
+## 📝 Services Offered
 - **3D Design:** Technical design, product design, mechatronics blueprints
 - **3D Printing:** FDM printing in PLA, PETG, and TPU materials
 - **3D Printer Rental:** Hourly rental with free slicing service
 
-### 📧 Contact
+## 📧 Contact
 For inquiries about 3D design services, 3D printing, or project collaboration:
 - **WhatsApp:** [+62 821 8222 7816](https://wa.me/+6282182227816)
 - **Instagram:** [@ariqshaq](https://instagram.com/ariqshaq)
