@@ -5,7 +5,7 @@
 
 ## 🔨 Currently Under Development
 
-This repository contains our mechatronics and 3D printing projects portfolio. The portfolio is currently only available in [Mechatronics & 3D Printing Portfolio.pdf](link-to-pdf-if-hosted). Detailed documentation is being prepared and will be available soon on this GitHub.
+This repository contains my mechatronics and 3D printing projects portfolio. The portfolio is currently only available in [Mechatronics & 3D Printing Portfolio.pdf](link-to-pdf-if-hosted). Detailed documentation is being prepared and will be available soon on this GitHub.
 
 ### ⚙️ Featured Projects (Documentation Coming Soon):
 1. ABU Robocon 2024 Robot
