@@ -9,8 +9,8 @@ This repository contains my mechatronics and 3D printing projects portfolio. The
 
 ---
 ## 📊 Track Record:
-- **4+ Years Experience**
-- **20+ Clients**
+- **3+ Years Experience**
+- **Diverse Project Portfolio**
 - **Multiple National Recognitions**
 
 ## ⚙️ Featured Projects (Documentation Coming Soon):
