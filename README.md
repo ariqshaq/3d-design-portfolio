@@ -9,7 +9,7 @@ This repository contains my mechatronics and 3D printing projects portfolio. The
 
 ---
 ## 📊 Track Record:
-- **3+ Years Experience**
+- **Experienced Since 2023**
 - **Diverse Project Portfolio**
 - **Multiple National Recognitions**
 
@@ -30,8 +30,8 @@ This repository contains my mechatronics and 3D printing projects portfolio. The
 
 ## 📧 Contact
 For inquiries about 3D design services, 3D printing, or project collaboration:
-- **WhatsApp:** [+62 821 8222 7816](https://wa.me/+6282182227816)
-- **Instagram:** [@ariqshaq](https://instagram.com/ariqshaq)
+- **WhatsApp (ariqshaq):** [+62 821 8222 7816](https://wa.me/+6282182227816)
+- **Instagram:** [@shq3d.solutions](https://instagram.com/shq3d.solutions)
 - **LinkedIn:** [Ariq Shaquille Baswara](https://linkedin.com/in/ariqshaq)
 
 ---
