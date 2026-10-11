@@ -5,7 +5,7 @@
 
 ## 🔨 Currently Under Development
 
-This repository contains my mechatronics and 3D printing projects portfolio. The portfolio is currently only available in [Mechatronics & 3D Printing Portfolio.pdf](https://github.com/ariqshaq/3d-design-portfolio/blob/main/SHQ%203D%20Portfolio.pdf). Detailed documentation is being prepared and will be available soon on this GitHub.
+This repository contains my mechatronics and 3D printing projects portfolio. The portfolio is currently only available in [SHQ 3D Portfolio.pdf](https://github.com/ariqshaq/3d-design-portfolio/blob/main/SHQ%203D%20Portfolio.pdf). Detailed documentation is being prepared and will be available soon on this GitHub.
 
 ---
 ## 📊 Track Record:
